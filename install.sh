@@ -14,6 +14,6 @@ echo "⚙️ Setting execute permissions..."
 chmod +x anonmode.sh tajir_anonmode_fullgui.py
 
 echo "✅ Installation complete!"
-echo "💡 To start GUI, run:"
-echo "python3 tajir_anonmode_fullgui.py"
-
+echo "🚀 Launching Tajir AnonMode GUI..."
+sleep 2
+python3 tajir_anonmode_fullgui.py
